@@ -1,0 +1,4 @@
+---
+- hosts: caioteste
+  roles:
+    - cache-user
